@@ -1,3 +1,10 @@
+1
+Data Wrangling-I: Importing libraries,
+loading a dataset, preprocessing it,
+checking for missing values, exploring the
+dataset, and performing necessary
+transformations and normalizations to
+clean the data.
 #1st
 import pandas as pd
 import numpy as np
