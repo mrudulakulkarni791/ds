@@ -1,3 +1,14 @@
+3
+Descriptive Statistics - Measures of
+Central Tendency and variability: Using
+the Iris dataset. We will: a) Perform
+operations on the Iris dataset to calculate
+basic statistical details (percentile, mean,
+standard deviation, etc.) for different
+species ('Iris-setosa', 'Iris-versicolor', 'Irisvirginica'). b) Use Python to extract and
+analyze these statistics for each species
+and understand their distributions.
+  
 #3rd
 import pandas as pd
 import numpy as np
